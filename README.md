@@ -1,1 +1,1 @@
-# Simpsons-Recognition-In-Class-Project
+# Simpsons Recognition In-Class Project
